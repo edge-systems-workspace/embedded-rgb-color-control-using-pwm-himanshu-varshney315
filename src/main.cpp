@@ -10,7 +10,7 @@
  * and analog PWM brightness control.
  */
 
-
+int led_pin=2;
 
 void setup() {
 
