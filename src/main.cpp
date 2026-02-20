@@ -13,12 +13,8 @@
 int led_pin=2;
 
 void setup() {
-
-
+    pinMode(led_pin, OUTPUT);
 }
 
 void loop() {
-
-
-
 }
